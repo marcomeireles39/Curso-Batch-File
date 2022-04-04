@@ -5,15 +5,18 @@ O comando set ainda tem outra vantagem, a de capturar digitos do teclado, usando
 set /p variavel="Mensagem a ser mostrada :"
 
 *Exemplo ver ex1.bat*
+
 ![](assets/20220403_164439_ex1.png)
 
 __Comando if__
 Comando usado para testar várias condições
 *Exemplo ver ex2.bat*
+
 ![](assets/20220403_171748_ex2.png)
 
 __Comando if else__
 Comando usado para testar ate 2 condições
+
 ![](assets/20220403_175435_ex3.png)
 
 __Parametros lógicos ou de testes__
@@ -27,6 +30,7 @@ GTR – Maior que
 GEQ – Maior ou igual a
 
 Veja exemplo no arquivo ex4.bat
+
 ![](assets/20220404_085255_ex4.png)
 
 Por fim vou falar desses dois ultimos codigos que eu coloquer nesse exemplo:
